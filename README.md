@@ -52,9 +52,6 @@
 [comment]: <> (gitlab.com)
 [![gitlab (.com)](https://gitlab.com/dtapps/go-log/badges/master/pipeline.svg)](https://gitlab.com/dtapps/go-log)
 
-[comment]: <> (codechina.csdn.net)
-[![codechina.csdn (.net)](https://codechina.csdn.net/dtapps/go-log/badges/master/pipeline.svg)](https://codechina.csdn.net/dtapps/go-log)
-
 ## 安装
 
 ```go
