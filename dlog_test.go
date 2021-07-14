@@ -1,7 +1,10 @@
 package dlog
 
-import "testing"
+import (
+	"github.com/dtapps/go-log/dlog"
+	"testing"
+)
 
 func TestName(t *testing.T) {
-	Info("sb")
+	dlog.Info("sb")
 }
